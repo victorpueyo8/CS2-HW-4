@@ -1,5 +1,6 @@
 //Victor Pueyo
 //Chapter 20 homework 4
+//String reverser
 
 #include<iostream>
 #include<string>
